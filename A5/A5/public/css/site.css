@@ -1,0 +1,34 @@
+@import url(https://fonts.googleapis.com/css?family=Nanum+Gothic);
+
+
+body{
+    background-color: rgb(228, 235, 238);
+}
+
+ ul {
+    background-color: rgb(195, 231, 231);  
+    
+}
+
+li{
+    border: 1px solid rgb(163, 161, 161);
+}
+li:hover {
+    background-color: rgba(25, 156, 156, 0.534);
+}
+h2, p{
+    font-family: 'Nanum Gothic', sans-serif; 
+}
+
+#bs-example-navbar-collapse-1{
+    background-color: rgb(170, 193, 204);
+}
+
+.container-fluid{
+    background-color: rgb(131, 186, 196);
+}
+
+div {
+    background-color: rgb(144, 189, 197);
+}
+
